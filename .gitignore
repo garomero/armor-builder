@@ -1,0 +1,9 @@
+# Never commit personal data or source books
+*.pdf
+*.epub
+*.json.bak
+armor-backup-*.json
+armor-export-*.csv
+.claude/
+.DS_Store
+Thumbs.db
